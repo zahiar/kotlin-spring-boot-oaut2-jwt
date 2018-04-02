@@ -1,0 +1,11 @@
+buildscript {
+    ext {
+        kotlinVersion = '1.2.31'
+        springBootVersion = '2.0.0.RELEASE'
+    }
+}
+
+allprojects {
+    group 'com.zahiar'
+    version '1.0.0'
+}
